@@ -1,0 +1,6 @@
+question,answer
+What is Python?,"Python is a high-level, interpreted programming language."
+How do you define a function in Python?,A function is defined using the 'def' keyword.
+What is a list in Python?,"A list is a mutable, ordered collection of items."
+How do you handle exceptions in Python?,Exceptions are handled using try-except blocks.
+What are Python dictionaries?,Dictionaries are collections of key-value pairs.
